@@ -8,6 +8,7 @@ microservices, cloud native and container-based architectures.
 
 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=for-the-badge&label=Stars&logo=github)](https://github.com/apache/skywalking)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asfskywalking.svg?style=for-the-badge&label=Follow&logo=twitter)](https://twitter.com/AsfSkyWalking)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhoumengyks%2Fskywalking.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhoumengyks%2Fskywalking?ref=badge_shield)
 
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.skywalking/apache-skywalking-apm.svg)](http://skywalking.apache.org/downloads/)
 [![CI/IT Tests](https://github.com/apache/skywalking/workflows/CI%20AND%20IT/badge.svg?branch=master)](https://github.com/apache/skywalking/actions?query=workflow%3ACI%2BAND%2BIT+event%3Aschedule+branch%3Amaster)
@@ -88,3 +89,6 @@ Visit our [website](http://skywalking.apache.org/users/) to find the user page.
 
 # License
 [Apache 2.0 License.](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhoumengyks%2Fskywalking.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhoumengyks%2Fskywalking?ref=badge_large)
